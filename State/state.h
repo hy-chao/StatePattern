@@ -1,14 +1,7 @@
 #pragma once
 #include<iostream>
 using namespace std;
-
 class Work;
-class NoonState;
-class EveningState;
-class ForenoonState;
-class AfternoonState;
-class SleepingState;
-class RestState;
 //³éÏó×´Ì¬
 class State
 {
